@@ -1,0 +1,1 @@
+# Brittany-js-class
